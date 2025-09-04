@@ -1,4 +1,4 @@
-## 🎓 My Certifications
+# 🎓 My Certifications
 
 This repository contains my professional certifications.  
 They are organized by field and stored as PDF files in folders.
