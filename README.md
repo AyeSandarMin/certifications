@@ -15,6 +15,9 @@ They are organized by field and stored as PDF files in folders.
 - [Generative AI Essentials for Software Developers (Coursera)](./Coursera/generative_ai_essentials.pdf)
 - [Generative AI for Software Developers Specialization (Coursera)](./Coursera/generative_ai_specialization.pdf)
 
+### 📈 Agile & Scrum
+- [Introduction to Agile Development and Scrum (Coursera)](./Coursera/introduction_agile_scrum.pdf) | [🔗 Verify Online](https://coursera.org/share/5f4fcbdca6b2f8efa180b4a47b5f739c)
+
 ---
 
 ### 🔗 External Profiles
