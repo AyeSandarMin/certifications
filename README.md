@@ -6,7 +6,7 @@ They are organized by field and stored as PDF files in folders.
 ---
 
 ## Front-End Development
-- [Meta Front-End Developer (Coursera)](./Coursera/meta_frontend.pdf)
+- [Meta Front-End Developer (Coursera)]([./Coursera/meta_frontend.pdf](https://coursera.org/share/b038d7a6ca41c94afc599e74a70a713d))
 
 ## Artificial Intelligence & Generative AI
 - [AI For Everyone (Coursera)](./Coursera/ai_for_everyone.pdf)
