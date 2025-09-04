@@ -16,15 +16,14 @@ They are organized by field and stored as PDF files in folders.
 - [Generative AI for Software Developers Specialization (Coursera)](./Coursera/generative_ai_specialization.pdf)
 
 ### 📈 Agile & Scrum
-- [Introduction to Agile Development and Scrum (Coursera)](./Coursera/introduction_agile_scrum.pdf) | [🔗 Proof of Completion](https://coursera.org/share/5f4fcbdca6b2f8efa180b4a47b5f739c)
+- [Introduction to Agile Development and Scrum (Coursera)](./Coursera/introduction-agile-scrum.pdf) | [🔗 Proof of Completion](https://coursera.org/share/5f4fcbdca6b2f8efa180b4a47b5f739c)
 
 ---
 
 ### 🔗 External Profiles
 - 🌐 [Portfolio Website](https://ayesandarmin.info/)  
 - 💻 [GitHub](https://github.com/AyeSandarMin)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aye-sandar-min/)  
-- 📚 [Coursera Accomplishments](https://www.coursera.org/user/d212ca4278028cca8f29cee6e258caed) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aye-sandar-min/) 
 
 ---
 
